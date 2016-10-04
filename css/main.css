@@ -108,6 +108,9 @@ body{
 .container{
   background-color: #DCE0E3	;
 }
+.img-fluid{
+margin:auto;
+}
 
 nav{
   background: black;
